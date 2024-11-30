@@ -9,7 +9,7 @@
   "dependencies": {
     "@exobase/core": "^1.0.0-rc.12",
     "@exobase/hooks": "^1.0.0-rc.16",
-    "superagent": "^8.0.3",
+    "superagent": "^9.0.0",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
